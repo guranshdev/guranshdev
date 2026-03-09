@@ -26,3 +26,5 @@
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=guranshdev&theme=tokyonight)
+
+![Snake animation](https://github.com/guranshdev/guranshdev/blob/output/github-contribution-grid-snake.svg)
