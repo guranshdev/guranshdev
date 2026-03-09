@@ -25,7 +25,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Guransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=guranshdev&show_icons=true&theme=default)
+<img src="https://github-readme-stats.vercel.app/api?username=guranshdev&show_icons=true&theme=tokyonight" />
 
 ---
 
