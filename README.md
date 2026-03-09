@@ -4,11 +4,30 @@
 🤖 Learning AI and programming  
 🚀 Building projects and improving every day  
 
-## My Projects
+---
+
+## 🚀 My Projects
 - Python Chatbot
 - Python Calculator
 
-## Currently Learning
+---
+
+## 🧠 Currently Learning
 - Python
 - GitHub
 - AI tools
+
+---
+
+## 🔧 Languages & Tools
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+---
+
+## 📊 GitHub Stats
+![Guransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=guranshdev&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=guranshdev&theme=tokyonight)
