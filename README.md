@@ -24,10 +24,5 @@
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=guranshdev&show_icons=true&theme=tokyonight" />
-
----
-
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=guranshdev&theme=tokyonight)
